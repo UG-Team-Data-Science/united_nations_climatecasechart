@@ -1,6 +1,6 @@
 # Data
 
-All cases and included documents from [https://climatecasechart.com/non-us-jurisdiction/](climatecasechart.com), that
+All cases and included documents from [climatecasechart.com](https://climatecasechart.com/non-us-jurisdiction/), that
 
  - are Non-US jurisdiction
  - filed in a WHO53 country
