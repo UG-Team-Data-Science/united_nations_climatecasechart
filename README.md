@@ -21,4 +21,4 @@ For these cases all documents are collected where available. Ten documents gave 
 **in-context learning** We experimented with using the `llama-3.1-8b-instruct-fp8` LLM-model to automatically determine the relevance of the matched keywords in these contexts, and to determine whether particular minorities like women, workers, children or elderly were mentioned in that regard, but haven't used this for the end result.
 
 
-For details of the processing, we provide a [github]() and [intermediate results](https://huggingface.co/datasets/prhbrt/united_nations_climatecasechart/) as [pickle](https://docs.python.org/3/library/pickle.html)s and JSONs.
+For details of the processing, we provide a [github](https://github.com/UG-Team-Data-Science/united_nations_climatecasechart/tree/main) and [intermediate results](https://huggingface.co/datasets/prhbrt/united_nations_climatecasechart/) as [pickle](https://docs.python.org/3/library/pickle.html)s and JSONs.
